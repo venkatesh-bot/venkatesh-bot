@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... GitHub profile README.md
-- 🌱 I’m currently learning ... Java, Angular 10 related frameworks
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
