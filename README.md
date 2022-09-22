@@ -1,13 +1,13 @@
 ### Here is What I'm working on! 👋
 
 
-- 🔭 I’m currently working on ... GitHub profile README.md
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... Terraform on AWS
+- 🌱 I’m currently learning ... AWS
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... golla.venkatesh.yadav@gmail.com
-- 😄 Pronouns: ... He/Him
+- 😄 Pronouns: ... Venky
 - ⚡ Fun fact: ... I am just started
 
 **Languages and Tools:**  
